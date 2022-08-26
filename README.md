@@ -10,7 +10,7 @@ A página é dividido em três partes: header, contendo logo e barra de navegaç
 ## O que eu aprendi
 Com essa landing page pude treinar conceitos de flexbox e diferentes formas de estilizar bordas de elementos com CSS.
 
- <h3><a href="https://johnpetros.github.io/balle_bot/">Veja o Site funcionando 👀</a></h3>
+ <h3 aling="cente"><a href="https://johnpetros.github.io/balle_bot/">Veja o Site funcionando 👀</a></h3>
 
  🚀 Tecnologias utilizadas
 
